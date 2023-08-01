@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1069" alt="Screenshot 2023-08-01 at 12 14 29 PM" src="https://github.com/ahmed-eldin/Levis-Web-Page/assets/111728755/21f921f9-ac00-4df1-9851-e5014370ea4c">
+
 
 
 # Levi's Responsive Web Page
