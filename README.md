@@ -23,7 +23,7 @@ This Levi's Responsive Web Page is a visually appealing and user-friendly webpag
 
 3.) Explore the web page and view the Levi's Long-Sleeve Shirt with interactive features.
 
-3.) Enjoy the seamless and responsive web page design on different devices.
+4.) Enjoy the seamless and responsive web page design on different devices.
 ## Customization
 
 Customize the Levi's Web Page with new styles, images, and features to suit your brand or collection. Modify the CSS and HTML files to create a personalized web page for your clothing collection.
